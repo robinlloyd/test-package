@@ -1,0 +1,6 @@
+{
+  "name": "robin-test-package",
+  "version": "1.0.0",
+  "main": "src/calc/index.js",
+  "license": "ISC"
+}
