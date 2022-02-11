@@ -1,6 +1,7 @@
 {
   "name": "robin-test-package",
-  "version": "1.0.0",
+  "version": "1.0.4",
+  "module": "src/calc/index.js",
   "main": "src/calc/dist/index.js",
   "license": "MIT",
   "repository": {

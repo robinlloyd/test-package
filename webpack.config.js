@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('path')
 
 module.exports = {
   mode: 'production',
@@ -6,6 +6,7 @@ module.exports = {
     calc: './src/calc/index.js'
   },
   output: {
+    globalObject: 'this',
     library: {
       name: 'calc',
       type: 'umd'
