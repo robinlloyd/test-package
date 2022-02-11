@@ -1,4 +1,2 @@
-export default function add (a, b) {
-  console.log('calling add()')
-  return a + b
-}
+export { default as add } from './add'
+export { default as subtract } from './subtract'
